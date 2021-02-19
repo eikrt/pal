@@ -1,2 +1,0 @@
-# pal
-palindrome finder
